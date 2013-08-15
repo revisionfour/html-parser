@@ -1,0 +1,26 @@
+{
+  "name": "html-parser",
+  "version": "0.0.0",
+  "description": "Parses HTML nicely",
+  "main": "html-parser.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/OpenSourceAnonymous/html-parser.git"
+  },
+  "keywords": [
+    "HTML",
+    "Parser"
+  ],
+  "author": "Chris Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenSourceAnonymous/html-parser/issues"
+  },
+  "dependencies": {
+    "mocha": "~1.12.0",
+    "node.extend": "~1.0.7"
+  }
+}
